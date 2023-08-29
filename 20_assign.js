@@ -1,0 +1,10 @@
+var mountains = ["Mount Everest", "K2", "Matterhorn", "Kilimanjaro", "Denali"];
+var rivers = ["Amazon", "Nile", "Yangtze", "Mississippi", "Danube"];
+var countries = ["United States", "China", "Russia", "Brazil", "Australia"];
+var cities = ["New York", "Tokyo", "Paris", "Rome", "Sydney"];
+var languages = ["English", "Spanish", "Mandarin", "French", "Arabic"];
+console.log("Mountains:", mountains);
+console.log("Rivers:", rivers);
+console.log("Countries:", countries);
+console.log("Cities:", cities);
+console.log("Languages:", languages);

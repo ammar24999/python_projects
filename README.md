@@ -1,2 +1,6 @@
-# python_projects
-al nafi python automation projects
+# Piaic projects
+Getting Started Exercises with TypeScript and Node.js
+<br>
+
+piaic projects
+
